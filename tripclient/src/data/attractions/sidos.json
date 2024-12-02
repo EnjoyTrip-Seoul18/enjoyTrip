@@ -1,0 +1,12 @@
+[
+  { "sido_code": 1, "sido_name": "서울" },
+  { "sido_code": 2, "sido_name": "부산" },
+  { "sido_code": 3, "sido_name": "인천" },
+  { "sido_code": 4, "sido_name": "제주" },
+  { "sido_code": 5, "sido_name": "광주" },
+  { "sido_code": 6, "sido_name": "대전" },
+  { "sido_code": 7, "sido_name": "대구" },
+  { "sido_code": 8, "sido_name": "울산" },
+  { "sido_code": 9, "sido_name": "경기도" },
+  { "sido_code": 10, "sido_name": "강원도" }
+]

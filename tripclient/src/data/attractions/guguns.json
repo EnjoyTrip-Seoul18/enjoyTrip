@@ -1,0 +1,23 @@
+[
+  { "gugun_name": "강남구", "sido_code": 1 },
+  { "gugun_name": "종로구", "sido_code": 1 },
+  { "gugun_name": "해운대구", "sido_code": 2 },
+  { "gugun_name": "서구", "sido_code": 2 },
+  { "gugun_name": "중구", "sido_code": 2 },
+  { "gugun_name": "송도구", "sido_code": 3 },
+  { "gugun_name": "연수구", "sido_code": 3 },
+  { "gugun_name": "서귀포시", "sido_code": 4 },
+  { "gugun_name": "제주시", "sido_code": 4 },
+  { "gugun_name": "북구", "sido_code": 5 },
+  { "gugun_name": "서구", "sido_code": 5 },
+  { "gugun_name": "동구", "sido_code": 6 },
+  { "gugun_name": "유성구", "sido_code": 6 },
+  { "gugun_name": "중구", "sido_code": 7 },
+  { "gugun_name": "수성구", "sido_code": 7 },
+  { "gugun_name": "남구", "sido_code": 8 },
+  { "gugun_name": "중구", "sido_code": 8 },
+  { "gugun_name": "수원시", "sido_code": 9 },
+  { "gugun_name": "성남시", "sido_code": 9 },
+  { "gugun_name": "춘천시", "sido_code": 10 },
+  { "gugun_name": "원주시", "sido_code": 10 }
+]

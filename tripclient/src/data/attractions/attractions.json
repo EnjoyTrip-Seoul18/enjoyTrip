@@ -1,0 +1,209 @@
+[
+  {
+    "name": "경복궁",
+    "description": "서울의 대표적인 역사적 관광지",
+    "address": "서울특별시 종로구 사직로 161",
+    "latitude": 37.579617,
+    "longitude": 126.977041,
+    "content_type_id": 1,
+    "gugun_code": 1
+  },
+  {
+    "name": "롯데월드",
+    "description": "서울의 대표적인 놀이공원",
+    "address": "서울특별시 송파구 올림픽로 240",
+    "latitude": 37.511,
+    "longitude": 127.0983,
+    "content_type_id": 2,
+    "gugun_code": 2
+  },
+  {
+    "name": "광화문 광장",
+    "description": "서울의 중심부에 위치한 광장",
+    "address": "서울특별시 종로구 세종대로 172",
+    "latitude": 37.570376,
+    "longitude": 126.976889,
+    "content_type_id": 3,
+    "gugun_code": 2
+  },
+  {
+    "name": "명동 쇼핑거리",
+    "description": "서울의 주요 쇼핑 명소",
+    "address": "서울특별시 중구 명동길 10",
+    "latitude": 37.5636,
+    "longitude": 126.982,
+    "content_type_id": 4,
+    "gugun_code": 3
+  },
+  {
+    "name": "해운대 해수욕장",
+    "description": "부산의 대표적인 해변 관광지",
+    "address": "부산광역시 해운대구 해운대해변로 264",
+    "latitude": 35.158698,
+    "longitude": 129.160384,
+    "content_type_id": 1,
+    "gugun_code": 4
+  },
+  {
+    "name": "부산 아쿠아리움",
+    "description": "부산의 대표적인 수족관",
+    "address": "부산광역시 해운대구 해운대해변로 266",
+    "latitude": 35.158545,
+    "longitude": 129.160612,
+    "content_type_id": 2,
+    "gugun_code": 5
+  },
+  {
+    "name": "부산국제영화제",
+    "description": "부산의 대표적인 문화 행사",
+    "address": "부산광역시 중구 비프광장로 58-1",
+    "latitude": 35.100556,
+    "longitude": 129.034722,
+    "content_type_id": 3,
+    "gugun_code": 6
+  },
+  {
+    "name": "남포동 쇼핑거리",
+    "description": "부산의 유명 쇼핑 거리",
+    "address": "부산광역시 중구 남포길 14",
+    "latitude": 35.1006,
+    "longitude": 129.0367,
+    "content_type_id": 4,
+    "gugun_code": 6
+  },
+  {
+    "name": "송도 센트럴파크",
+    "description": "인천 송도에 위치한 공원",
+    "address": "인천광역시 연수구 컨벤시아대로 160",
+    "latitude": 37.3861,
+    "longitude": 126.6365,
+    "content_type_id": 1,
+    "gugun_code": 7
+  },
+  {
+    "name": "차이나타운",
+    "description": "인천의 차이나타운",
+    "address": "인천광역시 중구 차이나타운로 12",
+    "latitude": 37.4757,
+    "longitude": 126.6165,
+    "content_type_id": 3,
+    "gugun_code": 8
+  },
+  {
+    "name": "성산 일출봉",
+    "description": "제주의 대표적인 관광지",
+    "address": "제주특별자치도 서귀포시 성산읍 성산리 1",
+    "latitude": 33.4588,
+    "longitude": 126.9353,
+    "content_type_id": 1,
+    "gugun_code": 9
+  },
+  {
+    "name": "한라산",
+    "description": "제주의 상징 한라산에서 등산을 즐길 수 있음",
+    "address": "제주특별자치도 제주시 한라산로 2070-61",
+    "latitude": 33.3648,
+    "longitude": 126.5338,
+    "content_type_id": 2,
+    "gugun_code": 10
+  },
+  {
+    "name": "제주신라호텔",
+    "description": "제주의 고급 숙박 시설",
+    "address": "제주특별자치도 서귀포시 중문관광로 72",
+    "latitude": 33.2463,
+    "longitude": 126.4141,
+    "content_type_id": 5,
+    "gugun_code": 9
+  },
+  {
+    "name": "국립아시아문화전당",
+    "description": "광주의 대표적인 문화시설",
+    "address": "광주광역시 동구 문화전당로 38",
+    "latitude": 35.1462,
+    "longitude": 126.9214,
+    "content_type_id": 3,
+    "gugun_code": 11
+  },
+  {
+    "name": "광주 신세계백화점",
+    "description": "광주의 대형 쇼핑몰",
+    "address": "광주광역시 서구 무진대로 932",
+    "latitude": 35.1599,
+    "longitude": 126.8519,
+    "content_type_id": 4,
+    "gugun_code": 12
+  },
+  {
+    "name": "엑스포과학공원",
+    "description": "대전의 대표적인 과학공원",
+    "address": "대전광역시 유성구 엑스포로 123",
+    "latitude": 36.3741,
+    "longitude": 127.3928,
+    "content_type_id": 1,
+    "gugun_code": 13
+  },
+  {
+    "name": "한밭수목원",
+    "description": "대전의 대표적인 수목원",
+    "address": "대전광역시 서구 둔산대로 169",
+    "latitude": 36.351,
+    "longitude": 127.3863,
+    "content_type_id": 6,
+    "gugun_code": 14
+  },
+  {
+    "name": "대구 동성로",
+    "description": "대구의 유명 쇼핑 거리",
+    "address": "대구광역시 중구 동성로 34",
+    "latitude": 35.8685,
+    "longitude": 128.5958,
+    "content_type_id": 4,
+    "gugun_code": 15
+  },
+  {
+    "name": "대구 이월드",
+    "description": "대구의 대표적인 놀이공원",
+    "address": "대구광역시 달서구 두류공원로 200",
+    "latitude": 35.8575,
+    "longitude": 128.5647,
+    "content_type_id": 2,
+    "gugun_code": 16
+  },
+  {
+    "name": "에버랜드",
+    "description": "경기도 용인에 위치한 유명 놀이공원",
+    "address": "경기도 용인시 처인구 포곡읍 에버랜드로 199",
+    "latitude": 37.2947,
+    "longitude": 127.2022,
+    "content_type_id": 2,
+    "gugun_code": 17
+  },
+  {
+    "name": "한국민속촌",
+    "description": "전통 한국 문화를 체험할 수 있는 관광지",
+    "address": "경기도 용인시 기흥구 민속촌로 90",
+    "latitude": 37.2593,
+    "longitude": 127.1129,
+    "content_type_id": 1,
+    "gugun_code": 17
+  },
+  {
+    "name": "남이섬",
+    "description": "강원도 춘천에 위치한 섬",
+    "address": "강원도 춘천시 남이섬길 1",
+    "latitude": 37.7837,
+    "longitude": 127.5259,
+    "content_type_id": 1,
+    "gugun_code": 19
+  },
+  {
+    "name": "대관령 양떼목장",
+    "description": "대관령에서 양을 직접 보고 체험할 수 있는 관광지",
+    "address": "강원도 평창군 대관령면 횡계리 14-1",
+    "latitude": 37.6786,
+    "longitude": 128.7182,
+    "content_type_id": 6,
+    "gugun_code": 20
+  }
+]
